@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Luis Sosa
 
-<!--
-**Luis2Sosa/Luis2Sosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador junior en formación con enfoque en Python, lógica de programación y automatización.
 
-Here are some ideas to get you started:
+🧠 Actualmente estudiando Ingeniería de Software en UNICARIBE y practicando programación todos los días.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 En este perfil comparto mis retos, ejercicios y proyectos personales mientras avanzo como desarrollador.
+
+---
+
+## 🧰 Tecnologías en las que estoy trabajando
+
+- Python 🐍
+- Git y GitHub
+- Automatización de archivos y lógica aplicada
+- (Pronto) Estructuras de datos y SQL
+
+---
+
+## 📂 Proyectos destacados
+
+🔹 [Contador de vocales](https://github.com/Luis2Sosa/...)  
+🔹 [Validador de palíndromos](https://github.com/Luis2Sosa/...)  
+🔹 [Separador de letras, números y símbolos](https://github.com/Luis2Sosa/...)  
+🔹 [Mini retos de lógica - Bloque 11.5](https://github.com/Luis2Sosa/...)
+
+---
+
+## 📫 Puedes contactarme
+
+- [LinkedIn](https://www.linkedin.com/in/luis-sosa-69323a363)
+- [GitHub](https://github.com/Luis2Sosa)
+
