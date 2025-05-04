@@ -19,11 +19,11 @@ Desarrollador junior en formación con enfoque en Python, lógica de programaci�
 
 ## 📂 Proyectos destacados
 
-🔹 [Contador de vocales](https://github.com/Luis2Sosa/...)  
-🔹 [Validador de palíndromos](https://github.com/Luis2Sosa/...)  
-🔹 [Separador de letras, números y símbolos](https://github.com/Luis2Sosa/...)  
-🔹 [Mini retos de lógica - Bloque 11.5](https://github.com/Luis2Sosa/...)
-
+🔹 [Registro de datos con expresiones regulares](https://github.com/Luis2Sosa/...)  
+🔹 [Organizador automático de archivos](https://github.com/Luis2Sosa/...)  
+🔹 [Data Scanner CLI - Validador de datos en consola](https://github.com/Luis2Sosa/...)  
+🔹 [Gestor de tareas StudyTaskManager](https://github.com/Luis2Sosa/...)  
+🔹 [SecureScanCLI - Escáner de seguridad de archivos](https://github.com/Luis2Sosa/...)
 ---
 
 ## 📫 Puedes contactarme
