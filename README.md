@@ -26,8 +26,5 @@ Desarrollador junior en formación con enfoque en Python, lógica de programaci�
 🔹 [SecureScanCLI - Escáner de seguridad de archivos](https://github.com/Luis2Sosa/...)
 ---
 
-## 📫 Puedes contactarme
 
-- [LinkedIn](https://www.linkedin.com/in/luis-sosa-69323a363)
-- [GitHub](https://github.com/Luis2Sosa)
 
