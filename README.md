@@ -18,6 +18,7 @@ Desarrollador junior en formación con enfoque en Python, lógica de programaci�
 ---
 
 ✨ Proyectos Destacados (actualizado a mayo 2025)
+
 🧑‍💻 Gestor de Usuarios
 CRUD completo por consola. Permite crear, leer, modificar y eliminar usuarios con Python puro y estructura funcional. Documentado y subido por consola.
 
@@ -35,6 +36,7 @@ Script que detecta y almacena datos sensibles (correos, cédulas, fechas, contra
 
 🧠 DataScanner Pro
 Aplicación avanzada de detección por consola. Filtra múltiples patrones sensibles usando Regex (correos, contraseñas, cédulas, fechas, teléfonos). Consolidación total de expresiones regulares.
+
 ---
 
 
