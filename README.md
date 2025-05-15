@@ -37,6 +37,10 @@ Script que detecta y almacena datos sensibles (correos, cédulas, fechas, contra
 🧠 DataScanner-Pro
 Aplicación avanzada de detección por consola. Filtra múltiples patrones sensibles usando Regex (correos, contraseñas, cédulas, fechas, teléfonos). Consolidación total de expresiones regulares.
 
+
+📇 Puedes ver mi perfil profesional en LinkedIn:  
+🔗 [linkedin.com/in/luis2sosa](https://linkedin.com/in/luis2sosa)
+
 ---
 
 
