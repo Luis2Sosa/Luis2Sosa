@@ -18,6 +18,7 @@ Desarrollador junior en formación con enfoque en Python, lógica de programaci�
 ---
 
 ✨ Proyectos Destacados (actualizado a mayo 2025)
+
 🧑‍💻 crud-usuarios-modular
 Sistema CRUD modular de consola en Python con validaciones reales, persistencia en archivo y control de errores. Permite crear, ver, modificar (con fecha de actualización) y eliminar usuarios. Hecho desde cero y subido por terminal. Proyecto principal de portafolio.
 
