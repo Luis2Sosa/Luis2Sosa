@@ -1,7 +1,7 @@
 ## 👋 Hola, soy Luis Sosa
 
 Desarrollador en formación, autodidacta y disciplinado, enfocado en **Python**, **Flutter** y **Firebase**.  
-Construyo proyectos reales todos los días con el objetivo de convertirme en un desarrollador sólido y profesional.
+Construyo proyectos reales todos los días, aplicando buenas prácticas de desarrollo y enfocándome en código mantenible.
 
 ---
 `
@@ -15,7 +15,7 @@ Construyo proyectos reales todos los días con el objetivo de convertirme en un 
 ## 📲 Proyectos destacados
 - **Mi Recibo Business**  
   Aplicación móvil desarrollada en Flutter con Firebase, publicada en **Google Play (testing)**  
-  Gestión de clientes, pagos, PDF, autenticación y modelo freemium.
+  Gestión de clientes y pagos, generación de PDF, autenticación de usuarios y modelo freemium.
 
 - Otros proyectos personales enfocados en automatización, CRUD, validaciones y buenas prácticas.
 
