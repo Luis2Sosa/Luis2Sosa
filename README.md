@@ -1,7 +1,8 @@
 ## 👋 Hola, soy Luis Sosa
 
-Desarrollador en formación, autodidacta y disciplinado, enfocado en **Python**, **Flutter** y **Firebase**.  
-Construyo proyectos reales todos los días, aplicando buenas prácticas de desarrollo y enfocándome en código mantenible.
+Desarrollador en formación, autodidacta y disciplinado, enfocado en Python, Flutter y Firebase.
+Construyo proyectos reales a diario aplicando buenas prácticas y código mantenible, utilizando la inteligencia artificial como apoyo al aprendizaje y análisis, sin sustituir la comprensión ni el desarrollo propio.
+
 
 ---
 `
